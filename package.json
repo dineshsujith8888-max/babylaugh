@@ -1,0 +1,12 @@
+{
+  "name": "babylaugh",
+  "version": "1.0.0",
+  "description": "Baby Laugh 😄",
+  "main": "babylaugh.js",
+  "scripts": {
+    "start": "node babylaugh.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
